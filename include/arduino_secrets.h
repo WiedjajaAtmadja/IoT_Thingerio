@@ -1,0 +1,5 @@
+#define USERNAME "WiedjajaAtmadja"
+#define DEVICE_ID "iot_course_esp32_doit"
+#define DEVICE_CREDENTIAL "fH!672S6lC5F4_iA"
+#define SSID "iot2.4g"
+#define SSID_PASSWORD "iot2.4g123"
